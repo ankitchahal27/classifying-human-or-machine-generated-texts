@@ -1,1 +1,1 @@
-# classifying-human-or-machine-generated-texts
+# Classifying-human-or-machine-generated-texts
